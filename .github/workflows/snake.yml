@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # Corre cada 12 horas
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: BrianSilenT/snk@v3   
+        uses: BrianSilenT/snk@v3   # tu fork con tag v3
         with:
           github_user_name: BrianSilenT
           outputs: |
