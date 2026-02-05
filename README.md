@@ -92,5 +92,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrianSilenT/BrianSilenT/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://BrianSilenT.github.io/BrianSilenT/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
