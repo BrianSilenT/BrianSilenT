@@ -80,5 +80,21 @@ fortaleciendo mi rol como **Backend Lead** y mi capacidad para trabajar en equip
     <img src="https://img.shields.io/badge/🚀%20NoCountry%20Hackathon-LATAM-success?style=for-the-badge&logo=github" alt="No Country Hackathon LATAM"/>
   </a>
 </p>
+## 🌐 Community & Contributions
 
+Además de mis proyectos personales, participo activamente en comunidades y organizaciones,  
+contribuyendo a repositorios colaborativos y fortaleciendo mi experiencia en trabajo en equipo.
 
+<p align="center">
+  <!-- Achievements -->
+  <a href="https://github.com/BrianSilenT?tab=achievements">
+    <img src="https://img.shields.io/badge/🏅%20GitHub-Achievements-lightgrey?style=for-the-badge&logo=github" alt="GitHub Achievements"/>
+  </a>
+  <!-- Organizations -->
+  <a href="https://github.com/No-Country-simulation">
+    <img src="https://img.shields.io/badge/🤝%20Organization-NoCountrySimulation-blue?style=for-the-badge&logo=github" alt="No Country Simulation"/>
+  </a>
+</p>
+
+> 💡 En el último año he contribuido a más de **20 repositorios**, incluyendo proyectos de análisis de datos,  
+> optimización de procesos y simulaciones laborales en equipo.
