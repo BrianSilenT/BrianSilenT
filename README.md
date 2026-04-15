@@ -61,7 +61,13 @@
   <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" alt="Illustrator"/></a>
 </p>
 
-<b> Participacion en hackatones
-* https://www.notion.so/jjojosjosejosejosa/Backend-33ff06f9a0a98032a146cb0e6bd2fd0e
-*https://nocountry.tech/hackathon-one-ii-latam/cmj15odcg001roy01sdalosv6
-</b>
+## 🏆 Participación en Hackatones
+
+<p align="center">
+  <a href="https://www.notion.so/jjojosjosejosa/Backend-33ff06f9a0a98032a146cb0e6bd2fd0e">
+    <img src="https://img.shields.io/badge/Backend%20Hackathon-Notion-blue?style=for-the-badge&logo=notion" alt="Backend Hackathon Notion"/>
+  </a>
+  <a href="https://nocountry.tech/hackathon-one-ii-latam/cmj15odcg001roy01sdalosv6">
+    <img src="https://img.shields.io/badge/NoCountry%20Hackathon-LATAM-success?style=for-the-badge&logo=github" alt="No Country Hackathon LATAM"/>
+  </a>
+</p>
