@@ -86,11 +86,6 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
 </p>
-
-<br>
-
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align="center">
-  <img src="https://BrianSilenT.github.io/BrianSilenT/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
+<b> Participacion en hackatones
+* https://www.notion.so/jjojosjosejosejosa/Backend-33ff06f9a0a98032a146cb0e6bd2fd0e
+</b>
