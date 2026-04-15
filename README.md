@@ -88,4 +88,5 @@
 </p>
 <b> Participacion en hackatones
 * https://www.notion.so/jjojosjosejosejosa/Backend-33ff06f9a0a98032a146cb0e6bd2fd0e
+*https://nocountry.tech/hackathon-one-ii-latam/cmj15odcg001roy01sdalosv6
 </b>
