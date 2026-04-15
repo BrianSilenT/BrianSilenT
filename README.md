@@ -22,9 +22,15 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
+
+Soy un **Backend Developer** apasionado por la arquitectura de software y la optimización de procesos.  
+Me gusta **documentar y crear flujos reproducibles** que faciliten el trabajo en equipo.  
+Disfruto liderar proyectos en entornos colaborativos, siempre buscando **claridad, eficiencia y escalabilidad**.  
 
 <br>
 
@@ -63,6 +69,9 @@
 
 ## 🏆 Participación en Hackatones
 
+He participado en proyectos que simulan entornos laborales reales y en hackatones regionales,  
+fortaleciendo mi rol como **Backend Lead** y mi capacidad para trabajar en equipos multidisciplinarios.
+
 <p align="center">
   <a href="https://nocountry.tech/simulacion-laboral-febrero-2026/cml1xj4eq0011i4013opu06bx">
     <img src="https://img.shields.io/badge/🏆%20Backend%20Hackathon-Simulación%20Laboral-blue?style=for-the-badge&logo=hackaday" alt="Backend Hackathon Simulación Laboral"/>
@@ -71,4 +80,5 @@
     <img src="https://img.shields.io/badge/🚀%20NoCountry%20Hackathon-LATAM-success?style=for-the-badge&logo=github" alt="No Country Hackathon LATAM"/>
   </a>
 </p>
+
 
