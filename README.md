@@ -101,13 +101,9 @@ contribuyendo a repositorios colaborativos y fortaleciendo mi experiencia en tra
 
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianSilenT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianSilenT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Contributions-226-green?style=for-the-badge&logo=github" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Repos-20+-blue?style=for-the-badge&logo=github" alt="Repos"/>
 </p>
 
 <p align="center">
