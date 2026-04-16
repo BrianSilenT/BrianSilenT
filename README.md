@@ -69,7 +69,7 @@ Disfruto liderar proyectos en entornos colaborativos, siempre buscando **clarida
 
 ## 🏆 Participación en Hackatones
 
-He participado en proyectos que simulan entornos laborales reales y en hackatones regionales,  
+He participado en proyectos que simulan entornos laborales reales y en hackatones internacionales,  
 fortaleciendo mi rol como **Backend Lead** y mi capacidad para trabajar en equipos multidisciplinarios.
 
 <p align="center">
